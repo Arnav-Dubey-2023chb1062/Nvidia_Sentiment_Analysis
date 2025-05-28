@@ -1,0 +1,13 @@
+pytorch-lightning>=2.0.0
+pytorch-forecasting>=1.0.0
+pandas>=1.5.0
+numpy>=1.21.0
+yfinance>=0.2.0
+matplotlib>=3.5.0
+torch>=2.0.0
+scikit-learn>=1.0.0
+tweepy>=4.12.0
+textblob>=0.17.1
+newsapi-python>=0.2.7
+concurrent-futures>=3.0.5
+schedule>=1.2.0 
