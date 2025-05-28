@@ -8,7 +8,8 @@ This project implements a machine learning model to predict NVIDIA (NVDA) stock 
 
 ## Project Structure
 ```
-├── untitled1.py              # Main implementation file
+├── Initial.py              # Initial implementation file
+├── Finalal.py              # Final implementation file
 ├── model_improvements.txt    # Technical documentation
 └── README.md                # Project documentation
 ```
