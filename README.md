@@ -1,5 +1,39 @@
 # NVIDIA Stock Price Prediction Project
 
+## What Are We Trying to Achieve?
+
+Have you ever wondered if we could predict stock prices using artificial intelligence? That's exactly what we're trying to do here, specifically for NVIDIA (NVDA) stock. Here's what makes our project special:
+
+### Our Main Goals
+1. **Predict Stock Movements**: We're building a tool that tries to predict NVIDIA's stock price for the next day, using both historical price data and market sentiment.
+
+2. **Combine Different Types of Data**:
+   - Price patterns (like moving averages and trends)
+   - Market sentiment (how people feel about NVIDIA)
+   - Trading volumes and price changes
+   
+3. **Make It Practical**: We want to create something that's:
+   - Easy to understand and use
+   - Reliable in its predictions
+   - Transparent about its limitations
+
+### Why This Matters
+- **For Investors**: Helps in making more informed decisions by providing data-driven insights
+- **For Analysts**: Offers a framework to understand market patterns
+- **For Developers**: Shows how to combine different data sources and machine learning techniques
+
+### Our Approach
+We started with a basic model and improved it step by step:
+1. First version: Simple price prediction using basic indicators
+2. Final version: Enhanced model with:
+   - More historical data (2 years instead of 1)
+   - Better sentiment analysis
+   - More sophisticated technical indicators
+   - Improved error handling and accuracy
+
+### Important Note
+While we're using advanced technology and data analysis, remember that stock markets are complex and influenced by many factors. Our tool is meant to be one of many resources in making investment decisions, not the only one.
+
 ## Overview
 This project implements a machine learning model to predict NVIDIA (NVDA) stock prices using XGBoost, incorporating both technical indicators and sentiment analysis. The project consists of two main components:
 1. A Python implementation of the prediction model (`Initial.py`)
