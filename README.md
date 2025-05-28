@@ -1,9 +1,5 @@
 # NVIDIA Stock Price Prediction Project
 
-## What Are We Trying to Achieve?
-
-Have you ever wondered if we could predict stock prices using artificial intelligence? That's exactly what we're trying to do here, specifically for NVIDIA (NVDA) stock. Here's what makes our project special:
-
 ### Our Main Goals
 1. **Predict Stock Movements**: We're building a tool that tries to predict NVIDIA's stock price for the next day, using both historical price data and market sentiment.
 
