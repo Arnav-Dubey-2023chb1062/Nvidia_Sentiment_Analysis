@@ -18,7 +18,7 @@ A high-performance deep learning system for multi-stock forecasting with integra
 
 | Component | Improvement | Benefit |
 |-----------|------------|----------|
-| Hidden Layer Size | 64 → 128 | Better pattern recognition |
+| Hidden Layer Size | 64 → 128 | Better pattern recognition. |
 | Attention Heads | 2 → 4 | Improved feature relationships |
 | Training Epochs | 30 → 50 | Enhanced model convergence |
 | Data History | 2 → 3 years | Richer temporal context |
