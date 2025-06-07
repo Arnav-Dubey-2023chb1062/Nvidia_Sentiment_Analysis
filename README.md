@@ -132,5 +132,5 @@ We welcome contributions through:
 - Efficient batch processing
 
 ---
-**Note**: This project is for educational purposes only. Always conduct thorough research and consult financial professionals before making investment decisions.
+**Note(IMPORTANT)**: This project is for educational purposes only. Always conduct thorough research and consult financial professionals before making investment decisions.
 
